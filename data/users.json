@@ -1,0 +1,34 @@
+[
+  {
+    "id": "2d84af61-1a97-4254-9dc1-ba0f06a548c8",
+    "username": "teacher@example.com",
+    "password": "$2b$10$0JrReZLlZl2fTEk3DWP1qu7mzvkHhyVKmmmSCPnus8r/DMQO2bV.O",
+    "name": "Prof. Johnson",
+    "role": "teacher",
+    "createdAt": "2025-07-26T23:57:37.293Z"
+  },
+  {
+    "id": "245d386a-1f6b-4b46-b05c-67f6fd1a83ce",
+    "username": "student@example.com",
+    "password": "$2b$10$0JrReZLlZl2fTEk3DWP1qu7mzvkHhyVKmmmSCPnus8r/DMQO2bV.O",
+    "name": "John Doe",
+    "role": "student",
+    "createdAt": "2025-07-26T23:57:37.293Z"
+  },
+  {
+    "id": "33f0c68c-dc37-4c17-bd03-c9fa26047dfa",
+    "username": "mitushi1.trar@gmail.com",
+    "password": "$2b$10$Uz/QE1kLBi4ybycHhzEfUuJIQjjbDxJdxq3Lw6giu.5TX9vwpUiz6",
+    "name": "mitushi",
+    "role": "student",
+    "createdAt": "2025-07-26T23:59:08.908Z"
+  },
+  {
+    "id": "cbae2720-5e2b-4e00-b588-3fab5aafc10d",
+    "username": "ri@gmail.com",
+    "password": "$2b$10$KzxlmEDfemxQPn3Tsx1LLuD.5uJSDgw8Xe0X7AfxJrktBf0t9dWIK",
+    "name": "ri",
+    "role": "teacher",
+    "createdAt": "2025-07-27T00:00:16.918Z"
+  }
+]

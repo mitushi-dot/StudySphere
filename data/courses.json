@@ -1,0 +1,32 @@
+[
+  {
+    "id": "df45e8ef-69ff-4b16-83e2-0a6e54a28873",
+    "title": "Mathematics 101",
+    "description": "Basic algebra and geometry concepts",
+    "teacherId": "2d84af61-1a97-4254-9dc1-ba0f06a548c8",
+    "teacherName": "Prof. Johnson",
+    "icon": "fas fa-calculator",
+    "color": "academic-blue",
+    "createdAt": "2025-07-26T23:57:37.294Z"
+  },
+  {
+    "id": "376027fd-eede-43ee-8e4e-dfa553a9ee5c",
+    "title": "Physics 201",
+    "description": "Mechanics and thermodynamics",
+    "teacherId": "2d84af61-1a97-4254-9dc1-ba0f06a548c8",
+    "teacherName": "Prof. Johnson",
+    "icon": "fas fa-atom",
+    "color": "success-green",
+    "createdAt": "2025-07-26T23:57:37.294Z"
+  },
+  {
+    "title": "blockchain",
+    "description": "text schdueled",
+    "icon": "fas fa-code",
+    "color": "bg-blue-500",
+    "id": "ca08448c-eb79-47cb-ac7f-6227dbe05847",
+    "teacherId": "cbae2720-5e2b-4e00-b588-3fab5aafc10d",
+    "teacherName": "ri",
+    "createdAt": "2025-07-27T00:00:59.197Z"
+  }
+]

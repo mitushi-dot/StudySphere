@@ -1,0 +1,14 @@
+[
+  {
+    "id": "48f8fbb0-9ea5-42ab-8ba2-3e8de3d1d47f",
+    "studentId": "33f0c68c-dc37-4c17-bd03-c9fa26047dfa",
+    "courseId": "376027fd-eede-43ee-8e4e-dfa553a9ee5c",
+    "enrolledAt": "2025-07-26T23:59:19.476Z"
+  },
+  {
+    "id": "93b1211f-667e-4ed2-83b3-50353e5db775",
+    "studentId": "33f0c68c-dc37-4c17-bd03-c9fa26047dfa",
+    "courseId": "df45e8ef-69ff-4b16-83e2-0a6e54a28873",
+    "enrolledAt": "2025-07-26T23:59:21.312Z"
+  }
+]
